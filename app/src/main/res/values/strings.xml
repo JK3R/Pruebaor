@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pruebaor</string>
+
+    <string-array name="SEXO">
+
+        <item> HOMBRE </item>
+        <item> MUJER </item>
+
+
+    </string-array>
+
+</resources>
